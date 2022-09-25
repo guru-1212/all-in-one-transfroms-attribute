@@ -1,0 +1,348 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+.one {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.one:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: scale(1.1);
+}
+.two {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 4s;
+  margin: 10px;
+}
+.two:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 4s;
+  transform: rotate(360deg);
+}
+.three {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 5s;
+  margin: 10px;
+}
+.three:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 5s;
+  transform: rotate(-360deg);
+}
+.three:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 4s;
+  transform: rotate(-360deg);
+}
+.four {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.four:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: scale(-1.1);
+}
+.five {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.five:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: rotateX(40deg);
+}
+.six {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.six:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: rotateX(40deg);
+}
+.seven {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.seven:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: translatex(120px);
+}
+.eight {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 15px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.eight:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: translatey(120px);
+}
+.nine {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 13px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.nine:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: translatey(-120px);
+}
+.ten {
+  background: #232323;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18,
+    0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+  -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 13px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.ten:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: skewx(25deg);
+}
+.eleven {
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 13px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.eleven:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: skewy(25deg);
+}
+.twellv {
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 13px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.twellv:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: skew(25deg, 45deg);
+}
+.thirteen {
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+  width: 280px;
+  height: 250px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 13px;
+
+  /* background-color: black; */
+
+  transition: 1s;
+  margin: 10px;
+}
+.thirteen:hover {
+  box-shadow: 3px 3px 12px 3px #000000;
+  transition: 1s;
+  transform: matrix(scalex(1.1), skew(85deg), translate(15px));
+}
